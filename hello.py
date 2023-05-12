@@ -1,1 +1,1 @@
-print("hello world")
+print(f"sum = {10 + 20}")
